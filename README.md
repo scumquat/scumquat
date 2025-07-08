@@ -1,4 +1,8 @@
 ## Hi there 👋
+ 
+
+My name is Sam Lewis, and I'm a current student at Virginia Commonwealth University studying biomedical engineering with a focus on instrumentation and imaging.
+
 
 <!--
 **scumquat/scumquat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
